@@ -1,0 +1,1 @@
+f=Label(root,text='THE GODOLPHIN AND LATYMER SCHOOL',fg='black',font=('Bold',25)).place(x='15',y='20')
